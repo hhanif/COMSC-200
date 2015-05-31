@@ -1,0 +1,17 @@
+// Lab 1A, My Grade Program
+// Programmer: Haris Hanif
+// Editor(s) used: Xcode
+// Compiler(s) used: Xcode
+
+Set total to zero
+Set grade counter to one
+
+While grade counter is less than or equal to ten
+  Prompt the user to enter the next grade
+  Input the next grade
+  Add the grade into the total
+  Add one to the grade counter
+
+Set class average to the total divided by ten
+Print the total of the grades for the all students in class
+Print the class average
